@@ -1,0 +1,13 @@
+# Keep the public repository limited to the finished notes and examples.
+tmp/
+examples/__pycache__/
+*.aux
+*.log
+*.out
+*.toc
+*.xdv
+*_probe.*
+ml_handbook.*
+extract_slides.py
+*_extracted.txt
+slides_extracted.txt
